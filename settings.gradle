@@ -1,0 +1,4 @@
+include ':agentweb-filechooser'
+include ':agentweb-core'
+include ':app'
+rootProject.name = "AgentWeb"
